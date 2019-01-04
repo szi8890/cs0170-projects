@@ -1,0 +1,7 @@
+To use the code, they type some Racket expression in the ellipses. The function outputs a single-element list containing the output of their expression as they would receive in Racket, given as a string.
+
+When the user provides an input, read.ml first breaks it down into a concrete_program, which breaks the list down into symbols, numbers, and lists. Parse then parses the concrete_program into an abstract_program, which identifies the values and procedures bound to the symbols in the concrete program, and writes an expression we can evaluate in OCaml.
+
+Next, eval evaluates the abstract_program outputted by parse, solving the userâ€™s input in OCaml.
+
+Finally, string_of_value takes the solution found why eval and converts it back to Racket.
