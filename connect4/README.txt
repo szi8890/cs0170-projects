@@ -1,8 +1,5 @@
 Connect4 ReadMe
 
-logins: izhao3 & acagaana
-
-
 __________________________________________________________________________________________
 Instructions for use: 
 
@@ -34,14 +31,3 @@ minimax algorithm is used to find which move will give the maximum float value o
 on that move. From there, the AI goes until the game is over.
 
 _________________________________________________________________________________________
-Hopefully there are no bugs :( there probably are im just too tired at this point
-
-List of people:
-
-Kushagra Agarwal
-Timmy Wang
-Sorin Cho
-Amanda Ng
-
-
-No extra features :( Sorry!
