@@ -58,19 +58,3 @@ once we keep running through each mult procedure, we need to move the list down 
 bignum* until both lists are empty.
 
 
-Possible bugs or problems with program:
-
-As far as I know, there aren't any (I hope).
-
-List of people whom you collaborated:
-
-Tim Wang
-Ivan Zhao
-
-
-Extra features:
-
-None
-
-
-
