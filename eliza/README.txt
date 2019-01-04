@@ -1,6 +1,3 @@
-Names: Sorin Cho and Ivan Zhao
-
-ID's: scho31 and izhao3
 ---------------------------------------------------------------------------------------------------
 Instructions: The user would input a sentence into the terminal. If the sentence fits in with
 one of the rules that we defined in the rules.ml, it would receive the corresponding response based 
@@ -74,12 +71,6 @@ template. We return the output of make_response which is what we see as the outp
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-Hopefully there are no bugs. I will be really sad if there are bugs that I missed :(
 
-List of people:
-Tim Wang
-Kushagra Agarwal
-
-No extra features
 
 
