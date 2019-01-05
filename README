@@ -1,0 +1,12 @@
+The four projects in here were completed as part of a curriculum for an intro computer science sequence. They were completed in 
+racket (bignum) and OCaml (rackette, connect 4, and eliza)
+
+A more detailed README of each project can be found in each folder
+
+Bignum: a calculator that adds or multiplies large numbers represented as a list in reverse order
+
+Eliza: A chatbot that responds to a variety of rules created as a prompt
+
+Rackette: A Racket interpreter written in OCaml that functions using all basic builtin components, including recursion
+
+Connect 4: A version of Connect 4 that can be played on a terminal with a functional AI
